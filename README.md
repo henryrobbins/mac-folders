@@ -1,8 +1,10 @@
 # mac-folders
 
-<img src="examples/git_folder.png" alt="Rush" width="100"/>
-<img src="examples/jupyter_folder.png" alt="Rush" width="100"/>
-<img src="examples/google_drive_folder.png" alt="Rush" width="100"/>
+<p float="left">
+    <img src="examples/git_folder.png" alt="git" width="100"/>
+    <img src="examples/jupyter_folder.png" alt="jupyter" width="100"/>
+    <img src="examples/google_drive_folder.png" alt="google" width="100"/>
+</p>
 
 This repo contains my custom folder icons for various programs I use. It also
 includes a short Python script `update.py` which updates the folder icons on
